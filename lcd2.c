@@ -1,5 +1,5 @@
 ﻿#define F_CPU 14745600UL
-#include "lcd.h"
+#include "lcd2.h"
 #include <util/delay.h>
 
 /* EN 펄스: 데이터/명령을 버스에 올린 뒤 호출 */
